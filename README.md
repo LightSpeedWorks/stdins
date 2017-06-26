@@ -1,0 +1,2 @@
+# stdins
+stdin with string
