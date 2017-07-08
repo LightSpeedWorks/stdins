@@ -1,7 +1,7 @@
 {
   "name": "stdins",
   "version": "0.0.0",
-  "description": "stdin with string",
+  "description": "stdin with string or buffer",
   "main": "stdins.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
